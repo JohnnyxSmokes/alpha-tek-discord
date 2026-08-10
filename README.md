@@ -186,6 +186,10 @@ Epic Alpha Discord
 
 Licensing the Discord Tek product for other communities is a **revenue pillar** (tiered bot / pack licensing) so free community value does not depend on founder burnout forever.
 
+**Licensing micro-footprint + money tiers:** [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing)  
+**AAI utility hub:** [aai-hub](https://github.com/JohnnyxSmokes/aai-hub)  
+**Whitepaper chapters:** [alpha-tek-whitepaper](https://github.com/JohnnyxSmokes/alpha-tek-whitepaper)
+
 ---
 
 ## Free First, Then Sustainable
