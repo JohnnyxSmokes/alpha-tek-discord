@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <a href="https://discord.gg/EpicAlpha">
+  <a href="https://discord.gg/epicalpha">
     <img src="assets/banner.png" alt="Epic Alpha Discord — Alpha Tek" width="100%" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   </p>
 
   <p>
-    <a href="https://discord.gg/EpicAlpha">
+    <a href="https://discord.gg/epicalpha">
       <img src="https://img.shields.io/badge/Join-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Join Discord" />
     </a>
     &nbsp;
@@ -60,7 +60,7 @@ Public **product map** for the **Epic Alpha** Discord server and the **Alpha Tek
 
 Production bot and bridge repositories stay **private**. You experience the product by joining the server.
 
-**Join:** [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha)
+**Join:** [discord.gg/epicalpha](https://discord.gg/epicalpha)
 
 ---
 
@@ -91,7 +91,7 @@ Alpha Tek Discord is not a marketing server with one announcement channel. It is
 
 ### Pump.fun Radars
 
-Launch size ladders, runners, graduated, live / bonding / mint feeds — structured for Solana trench operators who live in new-pair velocity.
+Launch size ladders, runners, graduated, live / bonding / mint feeds — structured for Solana trench operators who live in new-pair velocity. The bridge now reconciles PumpPortal WebSocket events against Frontend V3 REST and FluxBeam WebSocket snapshots, while retired routes fail closed before network egress.
 
 ### Solana Radars
 
@@ -217,7 +217,7 @@ Still DYOR. No automated feed is financial advice. Use verification links; never
 
 ## Join
 
-**https://discord.gg/EpicAlpha**
+**https://discord.gg/epicalpha**
 
 Then: pick a chain room · open a radar · read pins · ask in HQ · open [AlphaTek.App](https://www.alphatek.app) when you need the full portal.
 
