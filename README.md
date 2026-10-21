@@ -14,8 +14,8 @@
   <h1>Epic Alpha Discord</h1>
 
   <p>
-    <strong>The Alpha Tek Discord Product</strong><br />
-    <sub>Free intelligence community · Hundreds of automated Tek channels · Command surface · Safety stack</sub>
+    <strong>The Alpha Tek community and command stack.</strong><br />
+    <sub>200+ Tek channels · Hundreds of commands · Safety stack · discord.gg/sPW3tJk</sub>
   </p>
 
   <p>
