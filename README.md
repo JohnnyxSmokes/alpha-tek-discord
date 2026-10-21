@@ -101,6 +101,10 @@ Alpha Tek Discord is a Tek stack: hundreds of specialized feeds, command systems
 
 ---
 
+<p>
+  <img src="assets/discord-tek-stack.jpg" alt="Tek Stack: Alpha HQ, Pump.fun Radars, Solana Radars, KOL and Dev Monitors, Multichain Trending, News and Macro, X and KOL Feeds, Alpha Tools, Stocks and Options, Alpha Den, Call Bots" width="100%" />
+</p>
+
 ## Discord Tek Stack
 
 ### Alpha HQ · Onboarding and Community Core
@@ -199,6 +203,10 @@ Specialized call presets for liquidity, momentum, and social pulse, with links o
 
 ---
 
+<p>
+  <img src="assets/discord-command-families.jpg" alt="Command families: Analytics, DEX and Launch, KOL and Social, Safety and Guard, System and Premium, Paper and Tools. Server help is authoritative." width="100%" />
+</p>
+
 ## Commands
 
 Prefix families evolve. Server help is authoritative.
@@ -243,6 +251,10 @@ Exact command catalogs live inside Discord. This page does not freeze a spreadsh
 ---
 
 ## Volume and Reliability
+
+<p>
+  <img src="assets/discord-volume.jpg" alt="200+ Tek channels, 405+ commands, tens of millions of embeds. Heartbeats, filter monitors, error alerts." width="100%" />
+</p>
 
 - **200+** specialized Tek channels
 - **405+** Discord commands across the bot product
@@ -338,6 +350,10 @@ Still DYOR. No automated feed is financial advice. Use verification links.
 ---
 
 ## Join
+
+<p>
+  <img src="assets/discord-join-path.jpg" alt="Join path: pick a chain room, open a radar, read the pins, ask in HQ, open AlphaTek.App" width="100%" />
+</p>
 
 **https://discord.gg/sPW3tJk**
 
