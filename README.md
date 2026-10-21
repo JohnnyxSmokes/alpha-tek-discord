@@ -1,5 +1,5 @@
 <!--
-  PUBLIC product footprint. Epic Alpha / Alpha Tek Discord.
+  PUBLIC product footprint. AlphaTek Discord.
   Channels and command families only. No bot source, keys, or worker maps.
 -->
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  <h1>Epic Alpha Discord</h1>
+  <h1>AlphaTek Discord</h1>
 
   <p>
     <strong>The Alpha Tek community and command stack.</strong><br />
@@ -26,7 +26,7 @@
 
   <p>
     <a href="https://discord.gg/sPW3tJk">
-      <img src="https://img.shields.io/badge/Join-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Join Discord" />
+      <img src="https://img.shields.io/badge/Join-AlphaTek%20Discord-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Join AlphaTek Discord" />
     </a>
     &nbsp;
     <a href="https://www.alphatek.app">
@@ -57,7 +57,7 @@
 
 ## What This Repo Is
 
-Public product map for the Epic Alpha Discord server and the Alpha Tek command and channel family.
+Public product map for the AlphaTek Discord server and the Alpha Tek command and channel family.
 
 <table>
   <thead>
@@ -267,7 +267,7 @@ This is replication cost: years of channel design, feed tuning, and operational 
 ## How Discord Connects
 
 ```text
-Epic Alpha Discord
+AlphaTek Discord
    |  community, feeds, and commands
    |  Guard language shared with the portal and Trench
    |  calls and receipts
@@ -364,7 +364,7 @@ Then pick a chain room, open a radar, read the pins, ask in HQ, and open [AlphaT
 </p>
 
 <sub>
-  Epic Alpha Discord · Alpha Tek community and command stack · Bot source private<br />
+  AlphaTek Discord · Alpha Tek community and command stack · Bot source private<br />
   Built with passion since BTC 2012 · Tampa · Core private · Public story by design
 </sub>
 
