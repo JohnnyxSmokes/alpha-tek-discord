@@ -49,16 +49,6 @@
     <img src="https://img.shields.io/badge/Code-Private-f59e0b?style=flat-square&labelColor=0A0A0A" alt="Code private" />
   </p>
 
-  <p>
-    <a href="https://discord.gg/sPW3tJk">
-      <img src="assets/banner.png" alt="Epic Alpha Discord" width="100%" />
-    </a>
-  </p>
-
-  <p>
-    <img src="assets/community-engine.png" alt="Community engine: Discord, subscriptions, tipping, TG Arena, Academy, Quant calls" width="100%" />
-  </p>
-
 </div>
 
 ---
